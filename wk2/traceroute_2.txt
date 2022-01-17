@@ -1,0 +1,11 @@
+root@comp3134-intro-cyber-securityf:~# traceroute twitter.com                   traceroute to twitter.com (104.244.42.1), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.4.4 (10.78.4.4)  1.349 ms 10.78.6.93 (10.78.6.93)  1.334 ms 10.78.4.4 (10.78.4.4)  1.313 ms
+ 3  138.197.249.90 (138.197.249.90)  1.286 ms  1.264 ms 138.197.249.86 (138.197.249.86)  1.296 ms
+ 4  ae-5.a00.toroon02.ca.bb.gin.ntt.net (168.143.228.40)  1.914 ms 168.143.228.10 (168.143.228.10)  1.886 ms ae-5.a00.toroon02.ca.bb.gin.ntt.net (168.143.228.40)  1.871 ms
+ 5  ae-1.r00.toroon02.ca.bb.gin.ntt.net (129.250.6.37)  2.412 ms  2.398 ms  2.383 ms
+ 6  ae-2.r22.chcgil09.us.bb.gin.ntt.net (129.250.2.46)  12.679 ms  11.505 ms  11.463 ms
+ 7  ae-6.r07.chcgil09.us.bb.gin.ntt.net (129.250.6.61)  11.917 ms  11.900 ms  11.887 ms
+ 8  ce-0-5-0-3.r07.chcgil09.us.ce.gin.ntt.net (168.143.105.202)  11.308 ms  10.925 ms  11.262 ms
+ 9  * * *
+10  104.244.42.1 (104.244.42.1)  27.576 ms  27.196 ms  27.210 ms

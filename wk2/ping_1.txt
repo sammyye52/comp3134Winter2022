@@ -1,0 +1,16 @@
+root@comp3134-intro-cyber-securityf:~# ping google.com
+PING google.com (142.251.33.174) 56(84) bytes of data.
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=1 ttl=121 time=1.04 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=2 ttl=121 time=0.580 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=3 ttl=121 time=0.532 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=4 ttl=121 time=0.498 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=5 ttl=121 time=0.543 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=6 ttl=121 time=0.661 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=7 ttl=121 time=0.564 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=8 ttl=121 time=0.503 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=9 ttl=121 time=0.568 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=10 ttl=121 time=0.561 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=11 ttl=121 time=0.517 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=12 ttl=121 time=0.564 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=13 ttl=121 time=0.554 ms
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=14 ttl=121 ti
