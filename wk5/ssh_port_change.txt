@@ -1,0 +1,5 @@
+service {service_name} {action}
+service is a command
+{service_name} is the service you’d like to change such as apache2, mysql, etc
+{action} is a list of support actions such
+start, stop, etc
