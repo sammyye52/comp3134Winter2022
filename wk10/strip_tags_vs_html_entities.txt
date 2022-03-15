@@ -1,0 +1,1 @@
+It removes all < > from user inputs so when you type <script>alert(%27hello%27)</script> and press go, it ends up searching for scriptalert(%27hello%27)/script

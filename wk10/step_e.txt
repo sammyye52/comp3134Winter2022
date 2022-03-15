@@ -1,0 +1,3 @@
+I did this by making sure the user can't view files or folders with basename() so the php shouldn't look at folders that don't exist.
+In addition, by adding a File_exists() clause so the php shouldn't look at folders that don't exist.
+Finally, I made sure the php does not allow user to pass a filename by making my php file look for a dot in the parameter passed in

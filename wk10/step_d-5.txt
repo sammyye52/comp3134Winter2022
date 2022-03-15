@@ -1,0 +1,3 @@
+This time only index 0 to 3 in the array are displayed
+
+It still displays the contents of what's inside my web root folder

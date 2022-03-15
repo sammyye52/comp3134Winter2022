@@ -1,0 +1,4 @@
+1) Nothing happens
+2) No results are found
+3) Nothing happens
+4) Brings up a bunch of news articles

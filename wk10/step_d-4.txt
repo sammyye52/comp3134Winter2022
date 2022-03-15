@@ -1,0 +1,3 @@
+It displays the number associated with a function in the array stored in the php file
+
+A hacker could easily use this to run that function if they know which number is associated with a function
